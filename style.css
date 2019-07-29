@@ -18,9 +18,10 @@ img {
   text-align: center;
   font-size: 12px;
 }
-p {
-max-width: 800px;
-text-align: center;
+#featured-property p {
+  display: block;
+  max-width: 800px;
+  text-align: center;
 }
 
 a {
