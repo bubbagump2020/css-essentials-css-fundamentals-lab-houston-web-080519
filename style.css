@@ -19,8 +19,9 @@ img {
   font-size: 12px;
 }
 #featured-property p {
-  text-align: center;
   width: 800px;
+  text-align: center;
+
 }
 
 a {
